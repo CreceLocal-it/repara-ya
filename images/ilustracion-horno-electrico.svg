@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e4a52"/><stop offset="1" stop-color="#062a2f"/></linearGradient>
+<pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#4fc3b9" opacity=".18"/></pattern></defs>
+<rect width="1600" height="1000" fill="url(#g)"/><rect width="1600" height="1000" fill="url(#p)"/>
+<path d="M0 860 C200 820 400 900 600 860 S1000 820 1200 860 S1500 900 1600 860 V1000 H0Z" fill="#4fc3b9" opacity=".12"/>
+<path d="M0 910 C250 880 500 950 750 910 S1250 880 1600 915 V1000 H0Z" fill="#4fc3b9" opacity=".12"/>
+<g fill="none" stroke="#e8f5f3" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" transform="translate(800 340) scale(.62)"><rect x="-330" y="-200" width="660" height="380" rx="34"/><rect x="-280" y="-150" width="400" height="280" rx="22"/>
+<path d="M-240 -40 h320 M-240 40 h320" stroke="#ff7a59"/>
+<circle cx="230" cy="-90" r="34"/><circle cx="230" cy="20" r="34" stroke="#4fc3b9"/><line x1="200" y1="110" x2="260" y2="110"/>
+<line x1="-280" y1="180" x2="-280" y2="215"/><line x1="280" y1="180" x2="280" y2="215"/></g></svg>

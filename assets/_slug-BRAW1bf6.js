@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-DlixHWUF.js";import{n as t}from"./index-B7b5F6bA.js";import{t as n}from"./SitePage-ggYiEFG_.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`servicio:`+e})}export{i as component};
