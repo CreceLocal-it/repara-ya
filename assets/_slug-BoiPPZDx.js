@@ -1,1 +1,0 @@
-import{g as e}from"./bloques-DOnpiIVK.js";import{n as t}from"./index-BdNRGwPt.js";import{t as n}from"./SitePage-VPb91Pl4.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`servicio:`+e})}export{i as component};

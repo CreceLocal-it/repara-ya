@@ -1,1 +1,0 @@
-import{g as e}from"./bloques-DOnpiIVK.js";import{t}from"./SitePage-VPb91Pl4.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`fallas`});export{r as component};

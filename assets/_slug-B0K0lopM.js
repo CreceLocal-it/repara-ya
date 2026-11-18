@@ -1,0 +1,1 @@
+import{_ as e}from"./bloques-Bcgbp_WA.js";import{i as t}from"./index-BhPaxVip.js";import{t as n}from"./SitePage-7pEjfCkt.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`marca:`+e})}export{i as component};
