@@ -1,0 +1,1 @@
+import{g as e}from"./bloques-DOnpiIVK.js";import{r as t}from"./index-BdNRGwPt.js";import{t as n}from"./SitePage-VPb91Pl4.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`marca:`+e})}export{i as component};

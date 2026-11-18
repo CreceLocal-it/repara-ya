@@ -1,1 +1,0 @@
-import{m as e}from"./bloques-DlixHWUF.js";import{t}from"./SitePage-ggYiEFG_.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`zonas`});export{r as component};
