@@ -1,1 +1,0 @@
-import{_ as e}from"./bloques-Bcgbp_WA.js";import{t}from"./SitePage-7pEjfCkt.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`galeria`});export{r as component};

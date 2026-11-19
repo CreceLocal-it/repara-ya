@@ -1,0 +1,1 @@
+import{_ as e}from"./bloques-V5tNjagw.js";import{a as t}from"./index-BD4qVP2g.js";import{t as n}from"./SitePage-DNDllJmy.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`falla:`+e})}export{i as component};

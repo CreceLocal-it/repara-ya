@@ -1,0 +1,1 @@
+import{_ as e}from"./bloques-V5tNjagw.js";import{t}from"./SitePage-DNDllJmy.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`privacidad`});export{r as component};

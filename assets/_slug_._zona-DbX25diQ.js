@@ -1,0 +1,1 @@
+import{_ as e}from"./bloques-V5tNjagw.js";import{t}from"./index-BD4qVP2g.js";import{t as n}from"./SitePage-DNDllJmy.js";var r=e();function i(){let{slug:e,zona:i}=t.useParams();return(0,r.jsx)(n,{page:`cruce:`+e+`/`+i})}export{i as component};
